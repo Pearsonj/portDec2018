@@ -1,3 +1,133 @@
 .list-group-item {
   line-height: 2.5;
 }
+@media only screen and (max-width: 2200px) {
+html, body{
+  margin: 0px;
+  padding: 0px;
+  
+  background-image: url("../images/ai-blur-codes-577585.jpg");
+  
+  height: 100%;
+  overflow-x: hidden;
+
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#directory {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 13%;
+
+}
+#directory, li {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 52px;
+  
+}
+
+#directory, li, a{
+  color: yellow;
+  text-decoration: none;
+  font-size: 69px;
+  font-family: 'Fugaz One', cursive;
+  text-shadow: 4px 5px 5px #ff0b0b;
+  
+}
+
+#landingList{
+  position: relative;
+  top: 25%;
+  left: -1%;
+}
+
+#name{
+  font-size: 20px;
+  color: grey;
+  text-decoration: none;
+  font-family: 'Fugaz One', cursive;
+  text-shadow: 1px 2px black;
+}
+
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1024px) {
+  #directory, li, a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 32px;
+    font-family: 'Fugaz One', cursive;
+    text-shadow: 4px 5px 5px #ff0b0b;
+    
+  }
+  
+
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 768px) {
+
+  #directory, li {
+    display: block;
+    text-align: left;
+    padding: 51px;
+  }
+
+  #directory, li, a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 45px;
+    font-family: 'Fugaz One', cursive;
+    text-shadow: 4px 5px 5px #666262;
+    
+  }
+
+  #landingList{
+    position: relative;
+    top: -7%;
+    left: -17%;
+}
+
+}
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 600px) {
+  #directory, li {
+    display: block;
+    text-align: left;
+    padding: 51px;
+  }
+  
+  #directory ,li ,a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 45px;
+    font-family: 'Fugaz One', cursive;
+    text-shadow: 4px 5px grey;
+    
+  }
+
+  #landingList{
+    position: relative;
+    top: -12%;
+    left: -29%;
+
+  }
+  
+  
+}
+  

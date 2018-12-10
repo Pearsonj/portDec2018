@@ -1,0 +1,609 @@
+.list-group-item {
+    line-height: 2.5;
+}
+
+@media only screen and (max-width: 2200px) {
+
+    html,
+    body {
+        margin: 0px;
+        padding: 0px;
+
+        background-image: url("../images/ai-blur-codes-577585.jpg");
+
+        height: 100%;
+        overflow-x: hidden;
+
+        background-position: center;
+        background-repeat: repeat-y;
+        background-size: cover;
+    }
+
+    #navBar {
+        font-size: 44px;
+        margin-left: 61%;
+        position: relative;
+        bottom: 5%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+
+    #imageData{
+        height: auto;
+        margin-top: 26px;
+        max-width: 100%;
+    }
+
+    #info {
+        position: absolute;
+    left: 32%;
+    background-color: #000000a6;
+    text-align: center;
+    top: 11%;
+    border-radius: 11px;
+    box-shadow: 1px 0px 13px 8px white;
+    width: 66%;
+    height: 46%;
+
+    }
+
+    #img {
+        width: 391px;
+    position: absolute;
+    left: 2%;
+    top: 11%;
+    margin: 0;
+    padding: 0;
+    border-radius: 51px;
+    box-shadow: 0px 0px 13px 9px white;
+    }
+    
+    
+    
+
+    #profName {
+        font-size: 116px;
+        color: white;
+        text-shadow: 1px -1px 7px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Playball', cursive;
+    }
+
+    #profAge {
+        font-size: 38px;
+        color: white;
+        text-shadow: 3px 2px 4px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profTitle {
+        font-size: 33px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 1%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profFacts {
+        font-size: 35px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 3%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #about {
+        position: absolute;
+        left: 32%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 61%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 66%;
+        height: 36%;
+
+
+    }
+
+    #aboutTitle {
+        font-size: 40px;
+        color: white;
+
+        margin: 0;
+        padding: 0;
+        text-shadow: 3px 2px 4px whitesmoke;
+        font-family: 'Playball', cursive;
+    }
+
+    #aboutContent {
+        color: white;
+        font-size: 29px;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1535px) {
+
+    #navBar {
+        font-size: 44px;
+        margin-left: 61%;
+        position: relative;
+        bottom: 5%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+
+    #imageData{
+        height: auto;
+        margin-top: 26px;
+        max-width: 100%;
+    }
+
+    #info {
+        position: absolute;
+    left: 32%;
+    background-color: #000000a6;
+    text-align: center;
+    top: 11%;
+    border-radius: 11px;
+    box-shadow: 1px 0px 13px 8px white;
+    width: 66%;
+    height: 46%;
+
+    }
+
+    #img {
+        width: 391px;
+    position: absolute;
+    left: 2%;
+    top: 11%;
+    margin: 0;
+    padding: 0;
+    border-radius: 51px;
+    box-shadow: 0px 0px 13px 9px white;
+    }
+    
+    
+    
+
+    #profName {
+        font-size: 116px;
+        color: white;
+        text-shadow: 1px -1px 7px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Playball', cursive;
+    }
+
+    #profAge {
+        font-size: 38px;
+        color: white;
+        text-shadow: 3px 2px 4px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profTitle {
+        font-size: 33px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 1%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profFacts {
+        font-size: 35px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 3%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #about {
+        position: absolute;
+        left: 32%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 61%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 66%;
+        height: 36%;
+
+
+    }
+
+    #aboutTitle {
+        font-size: 40px;
+        color: white;
+
+        margin: 0;
+        padding: 0;
+        text-shadow: 3px 2px 4px whitesmoke;
+        font-family: 'Playball', cursive;
+    }
+
+    #aboutContent {
+        color: white;
+        font-size: 29px;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+}
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1380px) {
+
+    #navBar {
+        font-size: 29px;
+    margin-left: 60%;
+    position: relative;
+    bottom: 4%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: white;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px black;
+    }
+
+
+    #imageData {
+        height: auto;
+        margin-top: 26px;
+        max-width: 100%;
+    }
+
+    #info {
+        position: absolute;
+    left: 38%;
+    background-color: #000000a6;
+    text-align: center;
+    top: 10%;
+    border-radius: 11px;
+    box-shadow: 1px 0px 13px 8px white;
+    width: 58%;
+    height: 47%;
+
+    }
+
+    #img {
+        width: 297px;
+        position: absolute;
+        left: 4%;
+        margin: 0;
+        padding: 0;
+        border-radius: 51px;
+        box-shadow: 0px 0px 13px 15px white;
+        top: 10%;
+    }
+
+    #profName {
+        font-size: 60px;
+        color: white;
+        text-shadow: 1px -1px 7px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Playball', cursive;
+    }
+
+    #profAge {
+        font-size: 25px;
+        color: white;
+        text-shadow: 3px 2px 4px whitesmoke;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profTitle {
+        font-size: 34px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 1%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #profFacts {
+        font-size: 29px;
+        color: white;
+        margin: 0;
+        padding: 0;
+        margin-top: 3%;
+        font-family: 'Fugaz One', cursive;
+    }
+
+    #about {
+        position: absolute;
+        left: 10%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 64%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 78%;
+        height: 34%;
+
+
+    }
+
+    #aboutTitle {
+        font-size: 40px;
+        color: white;
+
+        margin: 0;
+        padding: 0;
+        text-shadow: 3px 2px 4px whitesmoke;
+        font-family: 'Playball', cursive;
+    }
+
+    #aboutContent {
+        color: white;
+        font-size: 22px;
+        margin: 0;
+        padding: 0;
+        font-family: 'Fugaz One', cursive;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 970px) {
+
+    #navBar {
+        font-size: 25px;
+        margin-left: 13%;
+        position: relative;
+        bottom: 4%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: white;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px black;
+    }
+
+    #info {
+        position: absolute;
+        left: 2%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 42%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 96%;
+        height: 21%;
+
+    }
+
+    #img {
+        width: 269px;
+        position: absolute;
+        left: 3%;
+        margin: 0;
+        padding: 0;
+        border-radius: 51px;
+        box-shadow: 0px 0px 13px 15px white;
+        top: 7%;
+    }
+
+    #profName {
+        font-size: 40px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profAge {
+        font-size: 20px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profTitle {
+        font-size: 17px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profFacts {
+        font-size: 15px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #about {
+        position: absolute;
+        left: 2%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 68%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 96%;
+        height: 30%;
+
+    }
+
+    #aboutTitle {
+        font-size: 40px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #aboutContent {
+        font-size: 14px;
+    }
+}
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 600px) {
+
+    #navBar {
+        font-size: 25px;
+        margin-left: 13%;
+        position: relative;
+        bottom: 4%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: white;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px black;
+    }
+
+
+    #info {
+        position: absolute;
+        left: 2%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 42%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 96%;
+        height: 21%;
+
+    }
+
+    #img {
+        width: 195px;
+        position: absolute;
+        left: 25%;
+        margin: 0;
+        padding: 0;
+        border-radius: 51px;
+        box-shadow: 0px 0px 13px 15px white;
+        top: 7%;
+    }
+
+    #profName {
+        font-size: 40px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profAge {
+        font-size: 20px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profTitle {
+        font-size: 17px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #profFacts {
+        font-size: 15px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #about {
+        position: absolute;
+        left: 2%;
+        background-color: #000000a6;
+        text-align: center;
+        top: 68%;
+        border-radius: 11px;
+        box-shadow: 1px 0px 13px 8px white;
+        width: 96%;
+        height: 30%;
+
+    }
+
+    #aboutTitle {
+        font-size: 40px;
+        color: white;
+        /* text-shadow: 3px 2px 4px whitesmoke; */
+        margin: 0;
+        padding: 0;
+    }
+
+    #aboutContent {
+        font-size: 14px;
+    }
+}
