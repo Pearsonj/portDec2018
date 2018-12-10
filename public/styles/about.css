@@ -275,10 +275,10 @@
 @media only screen and (max-width: 1380px) {
 
     #navBar {
-        font-size: 29px;
-    margin-left: 60%;
-    position: relative;
-    bottom: 4%;
+        font-size: 44px;
+        margin-left: 61%;
+        position: relative;
+        bottom: 5%;
     }
 
     p {
@@ -287,15 +287,15 @@
     }
 
     a {
-        color: white;
+        color: yellow;
         margin-right: 3%;
         text-decoration: none;
         font-family: 'Fugaz One', cursive;
-        text-shadow: 4px 5px 5px black;
+        text-shadow: 4px 5px 5px red;
     }
 
 
-    #imageData {
+    #imageData{
         height: auto;
         margin-top: 26px;
         max-width: 100%;
@@ -303,30 +303,33 @@
 
     #info {
         position: absolute;
-    left: 38%;
+    left: 32%;
     background-color: #000000a6;
     text-align: center;
-    top: 10%;
+    top: 11%;
     border-radius: 11px;
     box-shadow: 1px 0px 13px 8px white;
-    width: 58%;
-    height: 47%;
+    width: 66%;
+    height: 46%;
 
     }
 
     #img {
-        width: 297px;
-        position: absolute;
-        left: 4%;
-        margin: 0;
-        padding: 0;
-        border-radius: 51px;
-        box-shadow: 0px 0px 13px 15px white;
-        top: 10%;
+        width: 391px;
+    position: absolute;
+    left: 2%;
+    top: 11%;
+    margin: 0;
+    padding: 0;
+    border-radius: 51px;
+    box-shadow: 0px 0px 13px 9px white;
     }
+    
+    
+    
 
     #profName {
-        font-size: 60px;
+        font-size: 116px;
         color: white;
         text-shadow: 1px -1px 7px whitesmoke;
         margin: 0;
@@ -335,7 +338,7 @@
     }
 
     #profAge {
-        font-size: 25px;
+        font-size: 38px;
         color: white;
         text-shadow: 3px 2px 4px whitesmoke;
         margin: 0;
@@ -344,7 +347,7 @@
     }
 
     #profTitle {
-        font-size: 34px;
+        font-size: 33px;
         color: white;
         margin: 0;
         padding: 0;
@@ -353,7 +356,7 @@
     }
 
     #profFacts {
-        font-size: 29px;
+        font-size: 35px;
         color: white;
         margin: 0;
         padding: 0;
@@ -363,14 +366,14 @@
 
     #about {
         position: absolute;
-        left: 10%;
+        left: 32%;
         background-color: #000000a6;
         text-align: center;
-        top: 64%;
+        top: 61%;
         border-radius: 11px;
         box-shadow: 1px 0px 13px 8px white;
-        width: 78%;
-        height: 34%;
+        width: 66%;
+        height: 36%;
 
 
     }
@@ -387,7 +390,7 @@
 
     #aboutContent {
         color: white;
-        font-size: 22px;
+        font-size: 29px;
         margin: 0;
         padding: 0;
         font-family: 'Fugaz One', cursive;
@@ -411,11 +414,11 @@
     }
 
     a {
-        color: white;
+        color: yellow;
         margin-right: 3%;
         text-decoration: none;
         font-family: 'Fugaz One', cursive;
-        text-shadow: 4px 5px 5px black;
+        text-shadow: 4px 5px 5px red;
     }
 
     #info {
@@ -518,11 +521,11 @@
     }
 
     a {
-        color: white;
+        color: yellow;
         margin-right: 3%;
         text-decoration: none;
         font-family: 'Fugaz One', cursive;
-        text-shadow: 4px 5px 5px black;
+        text-shadow: 4px 5px 5px red;
     }
 
 
