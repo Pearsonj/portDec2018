@@ -336,17 +336,17 @@
 
     #git {
         margin: 0;
-        padding: 0;
-        margin-top: 3%;
-        height: 33.3%;
-        width: 95%;
-        background-color: #0000007a;
-        position: relative;
-        left: 3%;
-        bottom: 8%;
-        color: white;
-        font-family: 'Playball', cursive;
-        text-align: center;
+    padding: 0;
+    margin-top: 13%;
+    height: 33.3%;
+    width: 95%;
+    background-color: #0000007a;
+    position: relative;
+    left: 3%;
+    bottom: 8%;
+    color: white;
+    font-family: 'Playball', cursive;
+    text-align: center;
     }
 
     #gitIcon {
@@ -358,7 +358,7 @@
     #link {
         margin: 0;
         padding: 0;
-        margin-top: 3%;
+        margin-top: 9%;
         height: 33.3%;
         width: 95%;
         background-color: #0000007a;
@@ -424,17 +424,17 @@
 
     #git {
         margin: 0;
-        padding: 0;
-        margin-top: 3%;
-        height: 33.3%;
-        width: 95%;
-        background-color: #0000007a;
-        position: relative;
-        left: 3%;
-        color: white;
-        bottom: 9%;
-        font-family: 'Playball', cursive;
-        text-align: center;
+    padding: 0;
+    margin-top: 15%;
+    height: 33.3%;
+    width: 95%;
+    background-color: #0000007a;
+    position: relative;
+    left: 3%;
+    color: white;
+    bottom: 9%;
+    font-family: 'Playball', cursive;
+    text-align: center;
     }
 
     #gitIcon {

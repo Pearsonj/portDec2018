@@ -17,9 +17,9 @@
 
     #navBar {
         font-size: 44px;
-    margin-left: 2%;
-    position: relative;
-    bottom: -1%;
+        margin-left: 2%;
+        position: relative;
+        bottom: -1%;
     }
 
     p {
@@ -35,12 +35,24 @@
         text-shadow: 4px 5px 5px red;
     }
 
-    a:hover{
+    a:hover {
         color: yellow;
         text-decoration: none;
     }
 
-    .card{
+    .card-body {
+        background-color: lightgrey;
+    }
+
+    .projBtn {
+        font-size: 29px;
+        position: absolute;
+        left: 138px;
+
+        bottom: 0;
+    }
+
+    .card {
         width: 44%;
         margin-right: 1%;
     }
@@ -78,12 +90,12 @@
         text-shadow: 4px 5px 5px red;
     }
 
-    a:hover{
+    a:hover {
         color: yellow;
         text-decoration: none;
     }
 
-    .card{
+    .card {
         width: 41%;
         margin-right: 1%;
     }
@@ -125,12 +137,12 @@
         text-shadow: 4px 5px 5px red;
     }
 
-    a:hover{
+    a:hover {
         color: yellow;
         text-decoration: none;
     }
 
-    .card{
+    .card {
         width: 44%;
         margin-right: 1%;
     }
@@ -171,22 +183,22 @@
         text-shadow: 4px 5px 5px red;
     }
 
-    a:hover{
+    a:hover {
         color: yellow;
         text-decoration: none;
     }
-    
-    .card{
+
+    .card {
         width: 22rem;
     }
-    
+
     #project1 {
         text-align: center;
         position: relative;
         display: inline-block;
     }
 
-    
+
 
 }
 
@@ -213,12 +225,13 @@
         text-shadow: 4px 5px 5px red;
     }
 
-    a:hover{
+    a:hover {
         color: yellow;
         text-decoration: none;
     }
 
-    .card{
+
+    .card {
         width: 22rem;
     }
 
