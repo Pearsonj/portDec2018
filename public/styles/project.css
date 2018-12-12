@@ -1,0 +1,232 @@
+@media only screen and (max-width: 2200px) {
+
+    html,
+    body {
+        margin: 0px;
+        padding: 0px;
+
+        background-image: url("../images/ai-blur-codes-577585.jpg");
+
+        height: 100%;
+        overflow-x: hidden;
+
+        background-position: center;
+        background-repeat: repeat-y;
+        background-size: cover;
+    }
+
+    #navBar {
+        font-size: 44px;
+    margin-left: 2%;
+    position: relative;
+    bottom: -1%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+    a:hover{
+        color: yellow;
+        text-decoration: none;
+    }
+
+    .card{
+        width: 44%;
+        margin-right: 1%;
+    }
+
+    #project1 {
+        text-align: center;
+        position: relative;
+        left: 10px;
+        display: -webkit-inline-box;
+        /* margin-right: 0%; */
+    }
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1535px) {
+
+    #navBar {
+        font-size: 44px;
+        margin-left: 1%;
+        position: relative;
+        bottom: -2%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+    a:hover{
+        color: yellow;
+        text-decoration: none;
+    }
+
+    .card{
+        width: 41%;
+        margin-right: 1%;
+    }
+
+    #project1 {
+        text-align: center;
+        position: relative;
+        left: 10px;
+        display: -webkit-inline-box;
+        /* margin-right: 0%; */
+    }
+
+
+}
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 1380px) {
+
+    #navBar {
+        font-size: 40px;
+        margin-left: 2%;
+        margin-bottom: -13px;
+        position: relative;
+        bottom: 1%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+    a:hover{
+        color: yellow;
+        text-decoration: none;
+    }
+
+    .card{
+        width: 44%;
+        margin-right: 1%;
+    }
+
+    #project1 {
+        text-align: center;
+        position: relative;
+        left: 1%;
+        display: flex;
+        /* margin-right: 0%; */
+    }
+
+
+}
+
+
+/* ------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 600px) {
+
+    #navBar {
+        font-size: 25px;
+        margin-left: 4%;
+        position: relative;
+        bottom: 0%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+    a:hover{
+        color: yellow;
+        text-decoration: none;
+    }
+    
+    .card{
+        width: 22rem;
+    }
+    
+    #project1 {
+        text-align: center;
+        position: relative;
+        display: inline-block;
+    }
+
+    
+
+}
+
+
+@media only screen and (max-width: 400px) {
+
+    #navBar {
+        font-size: 25px;
+        margin-left: 2%;
+        position: relative;
+        bottom: 0%;
+    }
+
+    p {
+        margin-left: 0px;
+        text-decoration: none;
+    }
+
+    a {
+        color: yellow;
+        margin-right: 3%;
+        text-decoration: none;
+        font-family: 'Fugaz One', cursive;
+        text-shadow: 4px 5px 5px red;
+    }
+
+    a:hover{
+        color: yellow;
+        text-decoration: none;
+    }
+
+    .card{
+        width: 22rem;
+    }
+
+
+    #project1 {
+        text-align: center;
+        display: inline-block;
+
+    }
+
+}
